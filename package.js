@@ -1,6 +1,6 @@
 Package.describe({
-  name: 'raix:push',
-  version: '0.0.0-semantic-release',
+  name: 'shivang:push',
+  version: '0.0.1',
   summary: 'Isomorphic Push notifications for APN and GCM',
   git: 'https://github.com/raix/push.git'
 });
