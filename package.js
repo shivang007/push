@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'shivang:push',
+  name: 'shivangkar:push',
   version: '0.0.1',
   summary: 'Isomorphic Push notifications for APN and GCM',
-  git: 'https://github.com/raix/push.git'
+  git: 'https://github.com/shivang007/push.git'
 });
 
 // Server-side push deps
